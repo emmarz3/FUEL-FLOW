@@ -1,0 +1,20 @@
+{
+  "name": "fuelflow-africa",
+  "version": "1.0.0",
+  "description": "FuelFlow Africa - Subscription-based fuel management platform",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces",
+    "dev": "npm run dev --workspaces",
+    "start": "npm run start --workspaces",
+    "test": "npm run test --workspaces",
+    "lint": "npm run lint --workspaces"
+  },
+  "keywords": ["fuel", "subscription", "payment", "delivery", "saas"],
+  "author": "FuelFlow Africa Team",
+  "license": "MIT"
+}

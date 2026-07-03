@@ -1,0 +1,12 @@
+[debug] [2026-07-02T19:13:50.532Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-07-02T19:13:50.536Z] > authorizing via signed-in user (lateefwarris12@gmail.com)
+[debug] [2026-07-02T19:14:31.454Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-07-02T19:14:31.455Z] > authorizing via signed-in user (lateefwarris12@gmail.com)
+[debug] [2026-07-02T19:14:31.747Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-07-02T19:14:31.748Z] > authorizing via signed-in user (lateefwarris12@gmail.com)
+[debug] [2026-07-03T03:09:46.645Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-07-03T03:09:46.647Z] > authorizing via signed-in user (lateefwarris12@gmail.com)
+[debug] [2026-07-03T03:09:46.677Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-07-03T03:09:46.677Z] > authorizing via signed-in user (lateefwarris12@gmail.com)
+[debug] [2026-07-03T03:09:46.939Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-07-03T03:09:46.939Z] > authorizing via signed-in user (lateefwarris12@gmail.com)
